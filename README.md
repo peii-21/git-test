@@ -1,2 +1,2 @@
 # git-test
-repo untuk mencoba git remote
+Test repo dari Git-Hub ke Local PC
